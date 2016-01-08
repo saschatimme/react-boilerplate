@@ -1,0 +1,15 @@
+@import 'src/config/variables';
+
+button, input, select, textarea, pre {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    margin: 0;
+}
+*, a:focus {
+    outline: 0;
+}
+
+body {
+    margin: 0;
+}
