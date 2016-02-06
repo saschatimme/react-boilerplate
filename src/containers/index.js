@@ -1,2 +1,1 @@
-export DevTools from './DevTools/DevTools';
-export Root from './Root/Root';
+export App from "./App/App";
